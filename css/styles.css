@@ -106,6 +106,7 @@ button {
   text-align: center;
   letter-spacing: 0.06em;
   text-decoration: none;
+  cursor: pointer;
 }
 
 /* Sections */
@@ -196,6 +197,7 @@ button {
   color: #212121;
   border-color: transparent;
   text-decoration: none;
+  cursor: pointer;
 }
 .filters .click:hover,
 .filters .click:focus {
